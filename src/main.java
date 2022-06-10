@@ -15,6 +15,7 @@ public class main {
         }
         main.choiceMethod();
         userInterface.printBoard();
+        userInterface.showBoard();
     }
 
     private void choiceMethod() {
